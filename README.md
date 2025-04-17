@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" />
+  <img src="https://github.com/esdrasmutombo/esdrasmutombo/blob/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Esdras Mutombo</h1>
